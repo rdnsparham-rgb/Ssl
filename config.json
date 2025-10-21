@@ -1,0 +1,17 @@
+{
+  "v": "2",
+  "ps": "parham-server",
+  "add": "185.126.255.78",
+  "port": "29196",
+  "id": "ac7ba3b7-6906-473d-ba95-c9a462e95376",
+  "aid": "0",
+  "net": "ws",
+  "type": "none",
+  "host": "real.getafreenode.sbs",
+  "path": "/speedtest",
+  "tls": "tls",
+  "sni": "real.getafreenode.sbs",
+  "alpn": "h2,http/1.1",
+  "fp": "firefox",
+  "scy": "auto"
+}
